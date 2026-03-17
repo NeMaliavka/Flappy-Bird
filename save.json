@@ -1,0 +1,28 @@
+{
+  "coins_total": 7,
+  "best_score": 34,
+  "selected": {
+    "bird": "bird_ninja",
+    "bg": "bg_forest_day",
+    "pipes": "pipe_candy"
+  },
+  "owned": {
+    "birds": [
+      "bird_blue",
+      "bird_ninja"
+    ],
+    "bgs": [
+      "bg_sky_day",
+      "bg_forest_day"
+    ],
+    "pipes": [
+      "pipe_green",
+      "pipe_candy"
+    ]
+  },
+  "upgrades": {
+    "extra_life_level": 0,
+    "slow_level": 0,
+    "magnet_level": 0
+  }
+}
